@@ -1,0 +1,1 @@
+Angular frontend placeholder for Bartr (currently static HTML).
