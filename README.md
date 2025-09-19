@@ -1,6 +1,6 @@
 # BarterLoops
 
-**AI-assisted barter marketplace prototype. Built twice.**
+**AI-assisted barter marketplace prototype. Built simultaneously in Python and C++.**
 
 ## Overview
 
@@ -24,12 +24,12 @@ Both are fully Dockerized and orchestrated with Compose, running identically on 
 
 ## Current State
 
-✅ **Complete**
+**Complete**
 - Backend services containerized and exposed via Nginx
 - Frontends boot and connect to backends (placeholder UIs)
 - Cross-platform Docker Compose orchestration
 
-🚧 **Todo**
+**Todo**
 - User accounts & authentication
 - Offer creation & inventory management
 - Barter loop matcher service
