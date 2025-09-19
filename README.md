@@ -1,8 +1,8 @@
-BarterLoops
-AI-assisted barter marketplace prototype — built fast, built twice.
+# BarterLoops
+## AI-assisted barter marketplace prototype. Built twice.
 
-Overview
-BarterLoops is an experimental project exploring how AI can power a free global barter marketplace.
+## Overview
+### BarterLoops is an experimental project exploring how AI can power a free global barter marketplace.
 The idea: instead of simple one-to-one trades, the system discovers multi-party loops (e.g. eggs -> hat -> rocking chair -> eggs) so everyone gets what they want.
 
 This repo contains two MVP scaffolds, both built in about 3.5 hours each using custom GPT coding assistants:
